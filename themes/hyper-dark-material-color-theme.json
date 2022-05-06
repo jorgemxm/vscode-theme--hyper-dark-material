@@ -695,11 +695,28 @@
 		{
 			"scope": [
 				"storage.type.class.jsdoc",
-				"variable.other.jsdoc",
+				"variable.other.jsdoc"
+			],
+			"settings": {
+				"foreground": "#829aaf",
+				"fontStyle": ""
+			}
+		},
+    {
+			"scope": [
 				"entity.name.type.instance.jsdoc"
 			],
 			"settings": {
-				"foreground": "#556B80",
+				"foreground": "#bcd",
+				"fontStyle": ""
+			}
+		},
+    {
+			"scope": [
+				"variable.other.jsdoc"
+			],
+			"settings": {
+				"foreground": "#569CD6",
 				"fontStyle": ""
 			}
 		},

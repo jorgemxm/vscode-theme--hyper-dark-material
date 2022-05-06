@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.2205.1
+- Update JSDocs color tokens
+
 ## v1.2204.1 (fork)
 - Update Workbench Colors
 - Update Badges Color
